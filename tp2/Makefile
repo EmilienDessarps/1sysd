@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-PROGS=ok_boomer roulette
+PROGS=digits
 CC=cc
 CFLAGS=
 
