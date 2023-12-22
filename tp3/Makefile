@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-PROGS=game calc
+PROGS=game calc tab
 CC=cc
 CFLAGS=
 
